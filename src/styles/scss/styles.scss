@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
+
+
+@import 'react-tabs/style/react-tabs.css';
+@import 'react-toastify/dist/ReactToastify.css';
+@import 'react-accessible-accordion/dist/fancy-example.css';
+@import 'swiper/swiper.min.css';
+@import 'swiper/components/effect-cube/effect-cube.min.css';
+@import 'swiper/components/effect-coverflow/effect-coverflow.min.css';
+@import 'swiper/components/pagination/pagination.min.css';
+@import 'swiper/components/navigation/navigation.min.css';
+@import 'aos/dist/aos.css';
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+@import url(../css/remixicon.css);
+@import url(../css/icofont.css);
+
+@import "common/base";
+@import "common/variables";
+@import "common/mixins";
+
+@import "pages/about";
+@import "pages/form";
+@import "pages/header";
+@import "pages/footer";
+@import "pages/login";
+@import "pages/card";
+@import "pages/product";
+@import "pages/contact";
+@import "pages/slider";
+
